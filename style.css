@@ -1,0 +1,16 @@
+/* Remove margins and padding from the list */
+/* ul {
+    margin: 0;
+    padding: 0;
+} */
+
+/* Darker background-color on hover */
+ul li:hover {
+    background: orange;
+}
+
+/* When clicked on, add a background color and strike out text */
+ul li.checked {
+    background: red;
+    color: #fff;
+}
